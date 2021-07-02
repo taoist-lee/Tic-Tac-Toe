@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="t">T</string>
+    <string name="i">I</string>
+    <string name="c">C</string>
+    <string name="a">A</string>
+    <string name="o">O</string>
+    <string name="e">E</string>
+    <string name="x">X</string>
+    <string name="dash">-</string>
+    <string name="select_mode">Select Mode</string>
+    <string name="takeo">Play with Takeo</string>
+    <string name="friend">Play with a friend</string>
+    <string name="can_you_beat">Can you beat Takeo?</string>
+    <string name="be_wary">Be wary he is great in this!</string>
+    <string name="pick">Pick Your Peg</string>
+    <string name="first_move">- Makes the first move.</string>
+    <string name="description">Dummy</string>
+    <string name="reset">Reset</string>
+    <string name="won">You Won</string>
+    <string name="lost">You Lost</string>
+    <string name="exit">Exit</string>
+</resources>

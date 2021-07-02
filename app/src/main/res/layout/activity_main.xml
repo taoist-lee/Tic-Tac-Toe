@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="2dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/t1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/t"
+            android:textColor="@color/red"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/i"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="0.5"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/i"
+            android:textColor="@color/red"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/c1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/c"
+            android:textColor="@color/red"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/dash1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/dash"
+            android:textColor="@color/black"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/t2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/t"
+            android:textColor="@color/red"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/a"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/a"
+            android:textColor="@color/red"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/c2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/c"
+            android:textColor="@color/red"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/dash2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/dash"
+            android:textColor="@color/black"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/t3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/t"
+            android:textColor="@color/red"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/o"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1.1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/o"
+            android:textColor="@color/red"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/e"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/virgo"
+            android:gravity="center"
+            android:text="@string/e"
+            android:textColor="@color/red"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
