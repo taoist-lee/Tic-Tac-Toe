@@ -2,7 +2,7 @@
 
 ![Tic Tac Toe Logo](/app/src/main/res/mipmap-xhdpi/ic_launcher.png)
 
-Causual Board Puzzle Game with Single and Multi Player Modes. A paper-and-pencil game made for Android Devices. AI Player Takeo is excellent in this. See if you can beat him!   
+Casual Board Puzzle Game with Single and Multi Player Modes. A paper-and-pencil game made for Android Devices. AI Player Takeo is excellent in this. See if you can beat him!   
 
 ## Video Walkthrough
 
